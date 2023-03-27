@@ -8,6 +8,7 @@ Instructions for Books Manager program
    - Debit
    - Credit
    - Balance
+  
   "Date" and "Description" have no mandatory formatting and are purely visual. They can also be left blank if you choose.
   "Debit" and "Credit" must be integer or decimal values, as they will deduct and add to the balance column respectively. 
   The Balance column does not need to be written in, it will be filled automatically. 
